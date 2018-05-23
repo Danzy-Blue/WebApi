@@ -1,0 +1,11 @@
+C:\POC\WebAPI\Library_API\Library_API\bin\Debug\netcoreapp2.0\Library_API.deps.json
+C:\POC\WebAPI\Library_API\Library_API\bin\Debug\netcoreapp2.0\Library_API.runtimeconfig.json
+C:\POC\WebAPI\Library_API\Library_API\bin\Debug\netcoreapp2.0\Library_API.runtimeconfig.dev.json
+C:\POC\WebAPI\Library_API\Library_API\bin\Debug\netcoreapp2.0\Library_API.dll
+C:\POC\WebAPI\Library_API\Library_API\bin\Debug\netcoreapp2.0\Library_API.pdb
+C:\POC\WebAPI\Library_API\Library_API\obj\Debug\netcoreapp2.0\Library_API.csproj.CoreCompileInputs.cache
+C:\POC\WebAPI\Library_API\Library_API\obj\Debug\netcoreapp2.0\Library_API.AssemblyInfoInputs.cache
+C:\POC\WebAPI\Library_API\Library_API\obj\Debug\netcoreapp2.0\Library_API.AssemblyInfo.cs
+C:\POC\WebAPI\Library_API\Library_API\obj\Debug\netcoreapp2.0\Library_API.dll
+C:\POC\WebAPI\Library_API\Library_API\obj\Debug\netcoreapp2.0\Library_API.pdb
+C:\POC\WebAPI\Library_API\Library_API\obj\Debug\netcoreapp2.0\Library_API.csprojResolveAssemblyReference.cache
